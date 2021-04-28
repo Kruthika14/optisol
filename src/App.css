@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+/* for form page */
+.table-section .table td i:hover, .table-section .table td .far:hover, .table-section .table td .fas:hover {
+  color: #0096ff;
+  cursor: pointer;
+}
+.table-section .table .thead-dark th {
+  background-color: #1a7272;
+  font-family: 'Poppins';
+  font-weight: 300;
+  text-transform: capitalize;
+  padding: 5px 1px !important;
+  position: relative;
+  vertical-align: middle;
+}
+/* end for form page */
